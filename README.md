@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# Cutefish-Ubuntu
+
+ Make a better experience Desktop OS
+
+ Focus on simplicity, beauty and practicality
+
 <!--
 **cutefish-ubuntu/cutefish-ubuntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

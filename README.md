@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [**Donate**](https://www.paypal.com/donate?hosted_button_id=S7WAC4BVRUAFJ)
 
 # Cutefish-Ubuntu
 ![enter image description here](https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu/main/img/one.png)

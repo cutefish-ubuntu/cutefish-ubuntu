@@ -1,3 +1,3 @@
-| [Home](https://cutefish-ubuntu.github.io/cutefish-ubuntu/) | [Download](https://cutefish-ubuntu.github.io/cutefish-ubuntu/Download) | [Donate](https://cutefish-ubuntu.github.io/cutefish-ubuntu/Donate) | [About](https://cutefish-ubuntu.github.io/cutefish-ubuntu/About) | 
+| [Home](https://github.com/cutefish-ubuntu) | [Download](https://github.com/cutefish-ubuntu/cutefish-ubuntu/blob/master/Download.md) | [Donate](https://github.com/cutefish-ubuntu/cutefish-ubuntu/blob/master/Donate.md) | [About](https://github.com/cutefish-ubuntu/cutefish-ubuntu/blob/master/About.md) |
 
 ## Donate

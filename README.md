@@ -1,6 +1,6 @@
 <!--### Hi there 👋 [**Donate**](https://www.paypal.com/donate?hosted_button_id=S7WAC4BVRUAFJ)-->
 
-| [Home](https://github.com/cutefish-ubuntu) | [Download](https://github.com/cutefish-ubuntu/cutefish-ubuntu/blob/master/Download.md) | [Donate](https://github.com/cutefish-ubuntu/cutefish-ubuntu/blob/master/Donate.md) | [About](https://github.com/cutefish-ubuntu/cutefish-ubuntu/blob/master/About.md) |
+| [Home](https://github.com/cutefish-ubuntu) | [Download Cutefish-Ubuntu](https://github.com/cutefish-ubuntu/cutefish-ubuntu/blob/master/Download.md) | [Donate](https://github.com/cutefish-ubuntu/cutefish-ubuntu/blob/master/Donate.md) | [About](https://github.com/cutefish-ubuntu/cutefish-ubuntu/blob/master/About.md) |
 
 # Cutefish-Ubuntu
 ![enter image description here](https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu/main/img/full.png)

@@ -2,4 +2,4 @@
 
 ## Download
 
-[Download](https://bit.ly/3yEfrmd) - Cutefish-Ubuntu v0.1 Beta - Developer Edition 
+[Download](https://bit.ly/3yEfrmd) - Cutefish-Ubuntu v0.1 Beta - Developer Edition [changelog](https://github.com/cutefish-ubuntu/cutefish-ubuntu/blob/master/Changelog/v0.1)
